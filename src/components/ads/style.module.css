@@ -1,0 +1,42 @@
+.container {
+    margin-top: -7vw;
+    color: white;
+    text-align: center;
+}
+
+.background {
+    width: 80vw;
+    position: absolute;
+    left: 10vw;
+    right: 10vw;
+    z-index: -3;
+}
+
+.content {
+    position: relative;
+    padding: 50px;
+    text-align: -webkit-center;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 600;
+    margin: 0;
+}
+.desc {
+    font-size: 20px;
+    font-weight: 300;
+    margin: 20px 0;
+    /* max-width: 40vw; */
+    text-align: center;
+}
+
+.button {
+    cursor: pointer;
+    background-color: #FF753A;
+    border-radius: 10px;
+    padding: 10px 30px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+}

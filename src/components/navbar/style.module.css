@@ -1,0 +1,33 @@
+.container {
+    color: #ffffff;
+    padding: 3vw 5vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 15vw;
+}
+
+.container_left {
+    display: flex;
+}
+
+.cart_img {
+    width: 1.5vw;
+    margin-left: 25px;
+}
+
+.menus {
+    display: flex;
+    margin-left: 50px;
+    align-items: center;
+}
+
+.menus > p {
+    margin: 0 50px 0 0;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}

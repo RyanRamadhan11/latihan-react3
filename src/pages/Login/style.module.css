@@ -1,0 +1,24 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    flex-direction: column;
+}
+
+.button {
+    background-color: white;
+    padding: 12px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+
+
+/*  */
